@@ -71,6 +71,14 @@ En tu navegador, dirigete a:
 
 <http://localhost:8000>
 
-## 7. Autor
+Credenciales:
+```
+| Usuario     | Contraseña    | Rol       |
+| ----------- | ------------- | --------- |
+| `admin`     | `Admin#123`   | admin     |
+| `recruiter` | `Recruit#123` | recruiter |
+```
+
+## 8. Autor
 
 Desarrollado por David Funes <dajofu04@gmail.com>
